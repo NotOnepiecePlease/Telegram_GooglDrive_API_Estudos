@@ -1,0 +1,25 @@
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google Drive API.exe.config
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google Drive API.exe
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google Drive API.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Auth.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Core.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Drive.v3.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.PlatformServices.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Newtonsoft.Json.dll
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.xml
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Auth.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Auth.xml
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Core.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Core.xml
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Google.Apis.Drive.v3.xml
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\Newtonsoft.Json.xml
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\obj\Debug\Google Drive API.csproj.AssemblyReference.cache
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\obj\Debug\Google Drive API.csproj.CoreCompileInputs.cache
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\obj\Debug\Google Drive API.csproj.CopyComplete
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\obj\Debug\Google Drive API.exe
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\obj\Debug\Google Drive API.pdb
+D:\@C Sharp\Telegram BOT C#\TelegramBOT\Google Drive API\bin\Debug\client_id.json
